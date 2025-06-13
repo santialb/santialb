@@ -9,9 +9,9 @@ I graduated with a Tech degree in software development and mobile apps at Polit�
 - 🌱 I’m currently learning ...
   - AWT Cloud
   - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- 💪🏼Outside tech, I love playing video games,  play sports especially soccer, read fantasy, and explore nature outdoors.
+- 👯 I’m looking forward to collaborating on open-source projects.
+- ✔ Ask me about anything, I am happy to help!😉<br>
+- 💪🏼Outside tech, I love playing video games, playing sports, especially soccer, reading fantasy, and exploring nature outdoors.
 - 📫 Reach out to me at: <a href="sa_albarracin@hotmail.com">sa_albarracin@hotmail.com</a>
 ## My Skills Include
 
